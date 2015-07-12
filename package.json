@@ -1,7 +1,7 @@
 {
   "name": "kanji-keys",
   "version": "0.1.0",
-  "description": "List of key meanings for kanji",
+  "description": "Kanji keys",
   "repository": {
     "type": "git",
     "url": "https://github.com/scriptin/kanji-keys.git"
