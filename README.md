@@ -6,10 +6,10 @@ Here you can find keys for 3100+ kanji.
 
 ## Contents of files
 
-- [kanji-keys.json][kanji-keys.json] - JSON object; keys are kanji themselves, values are objects with two fields:
+- [kanji-keys.json](kanji-keys.json) - JSON object; keys are kanji themselves, values are objects with two fields:
   - `uniqKey` - string, required, unique non-empty value
   - `otherKeys` - array of strings, required, may be empty
-- [kanji-keys.md][kanji-keys.md] - table for convenient viewing on GitHub
+- [kanji-keys.md](kanji-keys.md) - table for convenient viewing on GitHub
 
 For each kanji, there is a unique key and other keys. Other keys usually better in terms of relation to actual meaning of a kanji, but are not guaranteed to be unique. Also, there may not be other keys, if unique key is sufficient.
 
