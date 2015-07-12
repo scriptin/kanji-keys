@@ -9,7 +9,7 @@ var kanjiKeys = JSON.parse(fs.readFileSync('./kanji-keys.json', READ_UTF8));
 var nonUniq = _.chain(kanjiKeys)
   .keys()
   .groupBy(function (char) {
-    return kanjiKeys[char].uniqKey;
+    return kanjiKeys[char].uniq;
   })
   .pairs()
   .filter(function (row) {
@@ -27,7 +27,7 @@ if (nonUniq.length > 0) {
 var tableRows = _.chain(kanjiKeys)
   .pairs()
   .map(function (pair, index) {
-    return [index + 1, pair[0], pair[1].uniqKey, pair[1].otherKeys.join(', ')];
+    return [index + 1, pair[0], pair[1].uniq, pair[1].keys.join(', ')];
   })
   .value();
 
