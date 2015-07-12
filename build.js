@@ -26,14 +26,14 @@ if (nonUniq.length > 0) {
 
 var tableRows = _.chain(kanjiKeys)
   .pairs()
-  .map(function (pair) {
-    return [pair[0], pair[1].uniqKey, pair[1].otherKeys.join(', ')];
+  .map(function (pair, index) {
+    return [index, pair[0], pair[1].uniqKey, pair[1].otherKeys.join(', ')];
   })
   .value();
 
 var header = [
-  ['kanji', 'unique key', 'other meanings'], 
-  ['-----', '----------', '--------------']
+  ['no.', 'kanji', 'unique key', 'other keys'], 
+  ['---', '-----', '----------', '----------']
 ];
 
 var tableOpts = { hsep: ' | ' };
