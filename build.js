@@ -27,7 +27,7 @@ if (nonUniq.length > 0) {
 var tableRows = _.chain(kanjiKeys)
   .pairs()
   .map(function (pair, index) {
-    return [index, pair[0], pair[1].uniqKey, pair[1].otherKeys.join(', ')];
+    return [index + 1, pair[0], pair[1].uniqKey, pair[1].otherKeys.join(', ')];
   })
   .value();
 
