@@ -3,17 +3,17 @@ no. | kanji | unique key | other keys
 1    | 丶 | dot                           |
 2    | 丨 | vertical line                 |
 3    | 亅 | hook                          |
-4    | 丿 | slash                         |
+4    | 丿 | slash                         | bend
 5    | 几 | table                         | desk
 6    | 儿 | legs                          |
-7    | 乂 | regulate                      |
+7    | 乂 | regulate                      | mow, cut grass
 8    | 冂 | upside-down box               |
 9    | 亠 | kettle lid                    |
 10   | 勹 | wrapping enclosure            |
-11   | 匸 | hiding enclosure              |
-12   | 亻 | thin person                   |
-13   | 厶 | katakana mu                   |
-14   | 卩 | crooked seal                  |
+11   | 匸 | hiding enclosure              | conceal
+12   | 亻 | thin person                   | person, human
+13   | 厶 | katakana mu                   | I, myself, private
+14   | 卩 | crooked seal                  | seal, stamp
 15   | 冖 | cower                         |
 16   | 冫 | ice                           |
 17   | 凵 | open box                      |
@@ -25,62 +25,62 @@ no. | kanji | unique key | other keys
 23   | 弋 | shoot with bow                |
 24   | 夂 | go                            |
 25   | 兀 | towering                      | lofty
-26   | 廾 | two hands                     |
-27   | 尸 | corpse with flag              |
+26   | 廾 | two hands                     | twenty
+27   | 尸 | corpse with flag              | corpse
 28   | 囗 | closed box                    |
-29   | 宀 | roof with chimney             |
-30   | 于 | out of                        |
-31   | 巛 | curving river                 |
+29   | 宀 | roof with chimney             | roof
+30   | 于 | out of                        | going, from
+31   | 巛 | curving river                 | river
 32   | 幺 | short thread                  |
-33   | 广 | dotted cliff                  |
-34   | 阝 | mound (left) / town (right)   |
-35   | 廴 | long stride                   |
+33   | 广 | dotted cliff                  | house on cliff
+34   | 阝 | mound (left) / town (right)   | mound/dam (left side), town/village (right side)
+35   | 廴 | long stride                   | stretching
 36   | 彡 | bristle                       | short hair
 37   | 彳 | step with left foot           |
-38   | 扌 | small hand                    |
-39   | 忄 | thin heart                    |
-40   | 尢 | lame                          |
-41   | 氵 | water drops                   |
+38   | 扌 | small hand                    | hand
+39   | 忄 | thin heart                    | heart, mind, spirit
+40   | 尢 | lame                          | weak
+41   | 氵 | water drops                   | water
 42   | 屮 | sprout                        |
 43   | 壬 | 9th in rank                   |
-44   | 戈 | spear                         |
-45   | 歹 | bare bone                     |
-46   | 灬 | fire sparks                   |
+44   | 戈 | spear                         | halberd, lance
+45   | 歹 | bare bone                     | death, decay, bad, wicked
+46   | 灬 | fire sparks                   | fire
 47   | 尹 | official rank                 |
 48   | 攵 | rap                           | hit, strike
-49   | 辶 | walking on a road             |
-50   | 殳 | weapon                        |
-51   | 气 | blowing a steam               |
-52   | 礻 | cult                          |
-53   | 毋 | do not                        |
-54   | 爿 | split wood                    |
-55   | 夬 | certain                       |
+49   | 辶 | walking on a road             | walk, walking
+50   | 殳 | weapon                        | lance, pike, spear
+51   | 气 | blowing a steam               | steam, breath
+52   | 礻 | cult                          | display, showing
+53   | 毋 | do not                        | mother
+54   | 爿 | split wood                    | half of tree trunk
+55   | 夬 | certain                       | decide, determine
 56   | 禾 | grain on stalk                | rice plant
-57   | 乍 | while                         |
-58   | 衤 | clothes on mannequin          |
-59   | 氺 | water splash                  |
-60   | 罒 | small net                     |
+57   | 乍 | while                         | during, notwithstanding, (al)though
+58   | 衤 | clothes on mannequin          | cloth
+59   | 氺 | water splash                  | water
+60   | 罒 | small net                     | net
 61   | 疒 | sickness                      |
 62   | 癶 | footsteps                     |
 63   | 旡 | choke                         | sob
-64   | 亦 | also                          |
-65   | 虍 | tiger stripes                 |
+64   | 亦 | also                          | too
+65   | 虍 | tiger stripes                 | tiger
 66   | 艮 | northeast                     | stopping
 67   | 聿 | pencil                        | writing brush
-68   | 耒 | handle of plow                |
-69   | 舛 | opposite                      |
+68   | 耒 | handle of plow                | plow, plough
+69   | 舛 | opposite                      | deviate, contrary
 70   | 耂 | old grave                     |
-71   | 豕 | pig                           |
-72   | 豸 | badger                        |
-73   | 釆 | distinguish                   |
+71   | 豕 | pig                           | old
+72   | 豸 | badger                        | cat
+73   | 釆 | distinguish                   | divide, choose
 74   | 其 | that                          |
 75   | 隹 | small bird                    |
-76   | 隶 | servant                       |
-77   | 兔 | hare                          |
-78   | 飠 | eat less                      |
+76   | 隶 | servant                       | slave
+77   | 兔 | hare                          | rabbit
+78   | 飠 | eat less                      | eat, food
 79   | 巷 | alley                         | lane
 80   | 韋 | tanned leather                |
-81   | 樣 | way                           | manner, shape, form, pattern, style
+81   | 樣 | way                           | manner, shape, pattern
 82   | 一 | one                           |
 83   | 二 | two                           |
 84   | 三 | three                         |
@@ -91,7 +91,7 @@ no. | kanji | unique key | other keys
 89   | 八 | eight                         |
 90   | 九 | nine                          |
 91   | 十 | ten                           |
-92   | 口 | mouth                         |
+92   | 口 | mouth                         | opening
 93   | 日 | day                           | sun, Japan
 94   | 月 | month                         | moon
 95   | 田 | rice field                    | rice paddy
@@ -119,10 +119,10 @@ no. | kanji | unique key | other keys
 117  | 自 | oneself                       | self
 118  | 白 | white                         |
 119  | 百 | hundred                       |
-120  | 中 | in                            | middle
+120  | 中 | in                            | middle, center
 121  | 千 | thousand                      |
 122  | 舌 | tongue                        |
-123  | 升 | measuring box                 | sho
+123  | 升 | measuring box                 | sho (unit of measurement)
 124  | 昇 | rise up                       | ascend
 125  | 丸 | round                         | circle
 126  | 寸 | measurement                   | a bit of
@@ -134,13 +134,13 @@ no. | kanji | unique key | other keys
 132  | 卓 | eminent                       | table, prominent
 133  | 朝 | morning                       | dynasty
 134  | 只 | only                          | free of charge, ordinary
-135  | 貝 | shellfish                     |
+135  | 貝 | shellfish                     | sea shell
 136  | 貞 | upright                       | chaste
 137  | 員 | employee                      | member
-138  | 見 | see                           |
+138  | 見 | see                           | look
 139  | 児 | newborn babe                  | child
 140  | 元 | beginning                     | origin
-141  | 頁 | page                          |
+141  | 頁 | page                          | leaf
 142  | 頑 | stubborn                      |
 143  | 凡 | mediocre                      | commonplace
 144  | 負 | defeat                        | bear, lose
@@ -151,20 +151,20 @@ no. | kanji | unique key | other keys
 149  | 勺 | ladle                         | shaku
 150  | 的 | bull’s eye                    | target, adjectival suffix
 151  | 首 | neck                          | head, leader
-152  | 乙 | fishguts                      | second, the latter
+152  | 乙 | fishguts                      | 2nd, the latter
 153  | 乱 | riot                          | disordered
 154  | 直 | straightaway                  | straight, fix
 155  | 具 | tool                          | implement
 156  | 真 | true                          |
 157  | 工 | craft                         | manufacture, construction
-158  | 左 | left                          | left (direction)
-159  | 右 | right                         | right (direction)
+158  | 左 | left                          |
+159  | 右 | right                         |
 160  | 有 | possess                       | have
 161  | 賄 | bribe                         |
 162  | 貢 | tribute                       |
 163  | 項 | paragraph                     | clause
-164  | 刀 | sword                         |
-165  | 刃 | blade                         |
+164  | 刀 | sword                         | katana
+165  | 刃 | blade                         | edge
 166  | 切 | cut                           |
 167  | 召 | seduce                        | summon
 168  | 昭 | shining                       | luminous
@@ -178,7 +178,7 @@ no. | kanji | unique key | other keys
 176  | 子 | child                         | noun suffix
 177  | 孔 | cavity                        | open hole
 178  | 了 | complete                      | finish, comprehend
-179  | 女 | woman                         |
+179  | 女 | woman                         | female
 180  | 好 | fond                          | like, favorable
 181  | 如 | likeness                      | as
 182  | 母 | mama                          | mother
@@ -230,7 +230,7 @@ no. | kanji | unique key | other keys
 228  | 泊 | overnight                     | stay overnight
 229  | 湖 | lake                          |
 230  | 測 | fathom                        | measure, conjecture
-231  | 土 | soil                          |
+231  | 土 | soil                          | earth, ground
 232  | 吐 | spit                          | spew
 233  | 圧 | pressure                      |
 234  | 埼 | cape                          | cape (geography)
@@ -291,7 +291,7 @@ no. | kanji | unique key | other keys
 289  | 村 | town                          | village
 290  | 相 | inter-                        | phase, mutual, minister
 291  | 机 | desk                          |
-292  | 本 | book                          | basis, this
+292  | 本 | book                          | basis, this, present, main, real
 293  | 札 | tag                           |
 294  | 暦 | calendar                      |
 295  | 案 | plan                          | proposal
@@ -325,7 +325,7 @@ no. | kanji | unique key | other keys
 323  | 荻 | reed                          |
 324  | 狩 | hunt                          |
 325  | 猫 | cat                           |
-326  | 牛 | cow                           | cattle
+326  | 牛 | cow                           | cattle, ox
 327  | 特 | special                       |
 328  | 告 | revelation                    | notify, to tell
 329  | 先 | before                        | ahead, previous
@@ -399,12 +399,12 @@ no. | kanji | unique key | other keys
 397  | 舎 | cottage                       | building
 398  | 周 | circumference                 | periphery
 399  | 週 | week                          |
-400  | 士 | gentleman                     | military man, profession suffix
+400  | 士 | gentleman                     | scholar, bachelor, samurai, military man, profession suffix
 401  | 吉 | good luck                     | lucky
 402  | 壮 | robust                        | vigorous, grand
 403  | 荘 | villa                         | dignified
 404  | 売 | sell                          |
-405  | 学 | study                         | educational institution
+405  | 学 | study                         | learn, educational institution
 406  | 覚 | memorize                      | perceive, commit to memory
 407  | 栄 | flourish                      | glory, prosperity
 408  | 書 | write                         | book
@@ -435,7 +435,7 @@ no. | kanji | unique key | other keys
 433  | 諭 | rebuke                        | admonish
 434  | 式 | style                         | ceremony
 435  | 試 | test                          | try
-436  | 弐 | II                            | two, two (falsification prevention)
+436  | 弐 | II (two)                      | two (in legal documents)
 437  | 域 | range                         | bounded area
 438  | 賊 | burglar                       | bandit
 439  | 栽 | plantation                    | plant
@@ -508,10 +508,10 @@ no. | kanji | unique key | other keys
 506  | 雷 | thunder                       |
 507  | 霜 | frost                         |
 508  | 冬 | winter                        |
-509  | 天 | heavens                       | heaven
+509  | 天 | heavens                       | heaven, sky, imperial
 510  | 橋 | bridge                        |
 511  | 嬌 | attractive                    |
-512  | 立 | stand up                      | stand, establish
+512  | 立 | stand up                      | stand, erect, establish
 513  | 泣 | cry                           |
 514  | 章 | badge                         | chapter
 515  | 競 | vie                           | compete
@@ -527,7 +527,7 @@ no. | kanji | unique key | other keys
 525  | 匕 | spoon                         |
 526  | 北 | north                         |
 527  | 背 | stature                       | back
-528  | 比 | compare                       |
+528  | 比 | compare                       | compete, ratio
 529  | 昆 | descendants                   | insect
 530  | 皆 | all                           |
 531  | 混 | mix                           |
@@ -537,7 +537,7 @@ no. | kanji | unique key | other keys
 535  | 喝 | hoarse                        | shout at
 536  | 旨 | delicious                     | purport
 537  | 脂 | fat                           |
-538  | 壱 | I (one)                       | one, one (Falsification prevention)
+538  | 壱 | I (one)                       | one (in legal documents)
 539  | 毎 | every                         |
 540  | 敏 | cleverness                    | nimble
 541  | 梅 | plum                          | Japanese apricot, ume (Japanese apricot)
@@ -570,7 +570,7 @@ no. | kanji | unique key | other keys
 568  | 妄 | delusion                      | rash
 569  | 荒 | laid waste                    | wild
 570  | 望 | ambition                      | hope, look afar
-571  | 方 | direction                     | way, square
+571  | 方 | direction                     | way, square, person
 572  | 妨 | disturb                       | hinder
 573  | 坊 | boy                           | sonny, colloquial person suffix
 574  | 芳 | perfume                       | fragrant
@@ -597,7 +597,7 @@ no. | kanji | unique key | other keys
 595  | 栃 | horse chestnut                |
 596  | 地 | ground                        | place
 597  | 池 | pond                          |
-598  | 虫 | insect                        |
+598  | 虫 | insect                        | bug
 599  | 蛍 | lightning-bug                 | firefly
 600  | 蛇 | snake                         |
 601  | 虹 | rainbow                       |
@@ -621,7 +621,7 @@ no. | kanji | unique key | other keys
 619  | 豚 | pork                          | pig
 620  | 逐 | pursue                        | one by one, drive out
 621  | 遂 | consummate                    | accomplish
-622  | 家 | house                         | family
+622  | 家 | house                         | home, family
 623  | 嫁 | marry into                    | wed a man, bride
 624  | 豪 | overpowering                  | great man, magnificent
 625  | 腸 | intestines                    | intenstines
@@ -661,12 +661,12 @@ no. | kanji | unique key | other keys
 659  | 曰 | sayeth                        |
 660  | 困 | quandary                      | be in trouble, become distressed
 661  | 固 | harden                        | solid, firm, hard
-662  | 国 | country                       |
+662  | 国 | country                       | state
 663  | 団 | group                         | body
 664  | 因 | cause                         |
 665  | 姻 | matrimony                     | marriage
 666  | 園 | park                          | garden
-667  | 回 | times                         | turn round, time
+667  | 回 | times                         | turn round, occurrences
 668  | 壇 | podium                        | platform
 669  | 店 | store                         | shop
 670  | 庫 | warehouse                     | storage chamber
@@ -675,7 +675,7 @@ no. | kanji | unique key | other keys
 673  | 床 | bed                           | floor
 674  | 麻 | hemp                          | become numb
 675  | 磨 | grind                         | polish
-676  | 心 | heart                         |
+676  | 心 | heart                         | mind, spirit
 677  | 忘 | forget                        |
 678  | 忍 | endure                        | bear
 679  | 認 | acknowledge                   | recognise, recognize
@@ -802,7 +802,7 @@ no. | kanji | unique key | other keys
 800  | 督 | coach                         | supervise, commander
 801  | 寂 | loneliness                    | lonesome
 802  | 淑 | graceful                      |
-803  | 反 | anti-                         | counter
+803  | 反 | anti-                         |
 804  | 坂 | slope                         |
 805  | 板 | plank                         | board, plate
 806  | 返 | return                        |
@@ -938,7 +938,7 @@ no. | kanji | unique key | other keys
 936  | 覧 | perusal                       | look over
 937  | 巨 | gigantic                      | huge
 938  | 拒 | repel                         | refuse
-939  | 力 | power                         |
+939  | 力 | power                         | force, strength
 940  | 男 | male / man                    | man, male
 941  | 労 | labor                         | labour
 942  | 募 | recruit                       | raise
@@ -953,7 +953,7 @@ no. | kanji | unique key | other keys
 951  | 脇 | armpit                        | aside
 952  | 脅 | threaten                      |
 953  | 協 | co-                           | cooperate, cooperation
-954  | 行 | going                         | go, act, line
+954  | 行 | going                         | go, journey, act, line
 955  | 律 | rhythm                        | law
 956  | 復 | restore                       | return to, again
 957  | 得 | gain                          | acquire
@@ -1150,7 +1150,7 @@ no. | kanji | unique key | other keys
 1148 | 遅 | slow                          | late
 1149 | 漏 | leak                          |
 1150 | 刷 | printing                      | print
-1151 | 尺 | shaku                         |
+1151 | 尺 | shaku                         | shaku (unit of measurementh)
 1152 | 尽 | exhaust                       |
 1153 | 沢 | swamp                         | marsh
 1154 | 訳 | translate                     | sense
@@ -1257,7 +1257,7 @@ no. | kanji | unique key | other keys
 1255 | 遭 | encounter                     | meet with
 1256 | 漕 | rowing                        |
 1257 | 槽 | vat                           | tank
-1258 | 斗 | big dipper                    | dipper, to, Big Dipper
+1258 | 斗 | big dipper                    | dipper, to (unit of measurement)
 1259 | 料 | fee                           | materials
 1260 | 科 | department                    | subject of study, section
 1261 | 図 | map                           | drawing, diagram
@@ -1282,7 +1282,7 @@ no. | kanji | unique key | other keys
 1280 | 憤 | aroused                       | indignation
 1281 | 焼 | bake                          | burn
 1282 | 暁 | daybreak                      | dawn
-1283 | 半 | half                          |
+1283 | 半 | half                          | semi-, part, odd number
 1284 | 伴 | consort                       | accompany
 1285 | 畔 | paddy-ridge                   | waterside
 1286 | 判 | judgement                     | judge
@@ -1292,7 +1292,7 @@ no. | kanji | unique key | other keys
 1290 | 勝 | victory                       | win, excel
 1291 | 藤 | wisteria                      |
 1292 | 謄 | mimeograph / facsimile        | transcribe, mimeograph
-1293 | 片 | one-sided                     | fragment, one of two
+1293 | 片 | one-sided                     | fragment, a slice, one of two
 1294 | 版 | printing block                | printing plate, publishing
 1295 | 之 | of                            | possessive particle
 1296 | 乏 | destitution                   | scanty, scarce
@@ -1311,7 +1311,7 @@ no. | kanji | unique key | other keys
 1309 | 霧 | fog                           |
 1310 | 班 | squad                         |
 1311 | 帰 | homecoming                    | return, to return
-1312 | 弓 | bow                           | bow (archery, violin)
+1312 | 弓 | bow                           | bow (archery)
 1313 | 引 | pull                          | draw
 1314 | 弔 | condolences                   | condole
 1315 | 弘 | vast                          | disseminate
@@ -1413,7 +1413,7 @@ no. | kanji | unique key | other keys
 1411 | 岳 | point                         | high mountain
 1412 | 兵 | soldier                       |
 1413 | 浜 | seacoast                      | beach
-1414 | 糸 | thread                        |
+1414 | 糸 | thread                        | string, silk
 1415 | 織 | weave                         |
 1416 | 繕 | darning                       | mend
 1417 | 縮 | shrink                        |
@@ -1463,7 +1463,7 @@ no. | kanji | unique key | other keys
 1461 | 幽 | seclude / faint               | quiet and secluded, seclude
 1462 | 幾 | how many                      | some
 1463 | 機 | mechanism                     | machine, aircraft, opportunity
-1464 | 玄 | mysterious                    | profound
+1464 | 玄 | mysterious                    | dark, profound
 1465 | 畜 | livestock                     |
 1466 | 蓄 | amass                         | store up
 1467 | 弦 | bowstring                     | string
@@ -1635,7 +1635,7 @@ no. | kanji | unique key | other keys
 1633 | 轄 | control                       | exercise jurisdiction over
 1634 | 割 | proportion                    | divide
 1635 | 憲 | constitution                  |
-1636 | 生 | life                          | be born, student
+1636 | 生 | life                          | be born, birth, student
 1637 | 星 | star                          |
 1638 | 姓 | surname                       |
 1639 | 性 | sex                           | nature, -ity, gender
@@ -1805,7 +1805,7 @@ no. | kanji | unique key | other keys
 1803 | 修 | discipline                    | cultivate, repair
 1804 | 珍 | rare                          |
 1805 | 診 | check up                      | examine a patient, checkup
-1806 | 文 | sentence                      | letter, writings, writing
+1806 | 文 | sentence                      | letter, writings, script
 1807 | 対 | vis-a-vis                     | opposite, oppose
 1808 | 紋 | family crest                  | crest
 1809 | 蚊 | mosquito                      |
@@ -2024,7 +2024,7 @@ no. | kanji | unique key | other keys
 2022 | 鳥 | bird                          |
 2023 | 鳴 | chirp                         | cry, sound
 2024 | 鶴 | crane                         |
-2025 | 烏 | crow                          |
+2025 | 烏 | crow                          | raven
 2026 | 蔦 | vine                          | Japanese ivy
 2027 | 鳩 | pigeon                        |
 2028 | 鶏 | chicken                       |
@@ -2045,7 +2045,7 @@ no. | kanji | unique key | other keys
 2043 | 鋼 | steel                         |
 2044 | 綱 | hawser                        | essential points, rope
 2045 | 剛 | sturdy                        | tough
-2046 | 缶 | tin can                       | can
+2046 | 缶 | tin can                       | jar
 2047 | 陶 | pottery                       |
 2048 | 揺 | swing                         | shake
 2049 | 謡 | noh chanting                  | popular song
@@ -2171,7 +2171,7 @@ no. | kanji | unique key | other keys
 2169 | 稽 | training                      | consider
 2170 | 厖 | immense                       |
 2171 | 采 | grab                          | form
-2172 | 或 | a  (a certain)                |
+2172 | 或 | a (a certain)                 |
 2173 | 斬 | chop off                      | kill by slicing
 2174 | 兎 | rabbit                        |
 2175 | 也 | est                           | classical copula
@@ -2181,9 +2181,9 @@ no. | kanji | unique key | other keys
 2179 | 疋 | critters                      |
 2180 | 菫 | violet                        |
 2181 | 曼 | mandala                       |
-2182 | 巾 | towel                         |
+2182 | 巾 | towel                         | turban, scarf
 2183 | 云 | quote                         | such
-2184 | 卜 | augury                        |
+2184 | 卜 | augury                        | fortune-telling, divination
 2185 | 喬 | heaven-high                   | tall
 2186 | 莫 | shalt                         |
 2187 | 倭 | Yamato                        |
@@ -2194,7 +2194,7 @@ no. | kanji | unique key | other keys
 2192 | 佃 | work a field                  |
 2193 | 伶 | minstrel                      | musician
 2194 | 仔 | animal offspring              |
-2195 | 仇 | foe                           |
+2195 | 仇 | foe                           | enemy
 2196 | 伽 | look after                    |
 2197 | 僅 | trifle                        | a wee bit
 2198 | 僻 | biased                        |
@@ -2946,7 +2946,7 @@ no. | kanji | unique key | other keys
 2944 | 翠 | jade green                    |
 2945 | 黛 | blue-black                    |
 2946 | 鼎 | tripod                        |
-2947 | 鹵 | rocksalt                      |
+2947 | 鹵 | rocksalt                      | salt
 2948 | 鹸 | lye                           |
 2949 | 虔 | reserved                      |
 2950 | 燕 | swallow                       |
@@ -3047,8 +3047,8 @@ no. | kanji | unique key | other keys
 3045 | 檜 | Japanese cypress (old)        |
 3046 | 轡 | bridle’s bit                  |
 3047 | 淵 | abyss (old)                   |
-3048 | 伍 | V                             | rank
-3049 | 什 | X                             |
+3048 | 伍 | V (five)                      | rank
+3049 | 什 | X (ten)                       |
 3050 | 萬 | ten thousand (old)            |
 3051 | 邁 | pass through                  |
 3052 | 逞 | tough                         |
